@@ -1,0 +1,55 @@
+.top-sec {
+    min-height: 28rem;
+}
+
+
+.top-sec p{
+    padding: 40px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.top-sec .fs{
+    font-size: 48px;
+    margin-bottom: 18px;
+    margin-top: 75px;
+}
+
+.mid-sec{
+    background-color: #3d3d5a;
+    height: 400px;
+    margin-top: 7rem;
+}
+.mid-sec h1{
+
+color: white;
+
+text-align: center;
+
+align-items: center;
+
+padding-top: 13%;
+
+padding-left: 8%;
+
+padding-right: 8%;
+}
+
+.footer b {
+
+}
+
+.footer p{
+    text-align: center;
+    margin-top: 112px;
+    margin-bottom: 112px;
+}
+
+
+@media (max-width: 575px) {
+    .mid-sec{
+        height: 238px;
+    }
+
+    
+
+  }
